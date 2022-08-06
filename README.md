@@ -18,13 +18,16 @@
 * [Remove duplicate character in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/RemoveDuplicateCharacter.java)
 * [Display only Vowels in given strings ](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/StringContainVowels.java)
 * [Reverse string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/ReverseStringWithoutBuild.java)
-
 * [Panagram](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Panagram.java)
 * [Anagram](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Anagram.java)
 * [Palindrome](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Palidrome.java)
 * [FizzBuzz](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/FizzBuzz.java)
 * [Fibonacci](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Fibonacci.java)
 * [Factorial](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Factorial.java)
+* [Java program to count the characters in each word in a given sentence](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharacterInEachWords.java)
+* [Java program to count characters in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharactor.java)
+* [java progra, to count words in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountWords.java)
+
 
 #### Substrings :
 * [Compare given strings](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/CompareStrings.java)
