@@ -26,7 +26,7 @@
 * [Fibonacci](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Fibonacci.java)
 * [Factorial](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Factorial.java)
 
-####Substrings :
+#### Substrings :
 * [Compare given strings](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/CompareStrings.java)
 * [CompareTo](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/CompareTo.java)
 * [Print specific character ](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/PrintSpecificChar.java)
