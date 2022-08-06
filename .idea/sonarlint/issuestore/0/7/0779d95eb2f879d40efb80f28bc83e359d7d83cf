@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êﬁé„
+V	java:S125"<This block of commented-out lines of code should be removed.(ááÉﬁ˚ˇˇˇˇ
+Q	java:S125"<This block of commented-out lines of code should be removed.(®˜√ƒ
+I
+java:S1144"4Remove this unused private "isPalidromeCase" method.(—‰Q
+¢
+java:S2681"ÜThis line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ú¶’Ê˙ˇˇˇˇ

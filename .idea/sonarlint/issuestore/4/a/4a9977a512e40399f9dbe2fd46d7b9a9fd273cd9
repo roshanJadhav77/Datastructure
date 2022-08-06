@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ãøˆ
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞûäÚ8ª„õ¡š0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ŞûäÚ8Øƒö¡š0
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+c
+java:S1192"FDefine a constant instead of duplicating this literal " and " 3 times.(Ãøˆ8èƒö¡š0

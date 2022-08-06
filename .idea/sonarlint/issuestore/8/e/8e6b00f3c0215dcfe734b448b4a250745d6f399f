@@ -1,0 +1,6 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Æ·Û
+0
+java:S1220""Move this file to a named package.
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(·è˜ûÿÿÿÿ

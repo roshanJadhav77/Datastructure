@@ -1,0 +1,12 @@
+
+:
+java:S1659"Declare "x" on a separate line.(¶–óüúÿÿÿÿ
+:
+java:S1659"Declare "y" on a separate line.(¶–óüúÿÿÿÿ
+D
+java:S1481")Remove this unused "temp" local variable.(¶–óüúÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Â÷ı«şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Íáız
+Q	java:S125"<This block of commented-out lines of code should be removed.(½Á£µ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñÈó
