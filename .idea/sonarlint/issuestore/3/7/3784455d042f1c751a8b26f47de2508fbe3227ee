@@ -1,8 +1,0 @@
-
-:
-java:S1659"Declare "b" on a separate line.(†èÙ¬úÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¥–Çãúÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(å€Âşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±
-I
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

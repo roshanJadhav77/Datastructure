@@ -2,7 +2,7 @@ package array;
 
 public class LastestSmalest {
     public static void main(String[] args) {
-        int[] a = {4,5,111,-33, -22,2,6,7,88,4};
+        int[] a = {4,5,111,-33,-22,2,6,7,88,4};
 
         int largest =a[0];
         int smallest =a[0];

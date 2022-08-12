@@ -12,20 +12,15 @@ public class FindLargestTwo {
         // int maxThird = 0;
         for (int number : array) {
             if (maxOne < number) {
-                //   maxThird = maxTwo;
                 maxTwo = maxOne;
                 maxOne = number;
             } else if (maxTwo < number) {
                 maxTwo = number;
-           /* }else if(maxThird < number){
-                maxThird = number;
-            }*/
             }
-
-            System.out.println("1st largest " + maxOne);
-            System.out.println("2st largest " + maxTwo);
-            //  System.out.println("2st largest "+maxThird);
-
         }
+        System.out.println("1st largest: " + maxOne);
+        System.out.println("2st largest: " + maxTwo);
 
-    }}
+    }
+}
+

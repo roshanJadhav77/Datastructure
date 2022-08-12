@@ -26,7 +26,7 @@
 * [Factorial](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/Factorial.java)
 * [Java program to count the characters in each word in a given sentence](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharacterInEachWords.java)
 * [Java program to count characters in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharactor.java)
-* [java progra, to count words in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountWords.java)
+* [Java program to count words in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountWords.java)
 
 
 #### Substrings :
@@ -54,3 +54,7 @@
 * [Print Largest number](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/number/Largest.java)
 * [Print prime number from 1 to 100](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/PrimeNumber.java)
 * [Swap numbers without using 3rd variable / with using 3rd variable](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/SwappingTwoVariables.java)
+
+
+### Exception
+* [Reverse the string and print message if string is empty](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/exception/ReverseString.java)
