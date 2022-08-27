@@ -75,8 +75,6 @@ T
 $src/main/java/strings/Palidrome.java,0\7\0779d95eb2f879d40efb80f28bc83e359d7d83cf
 S
 #src/main/java/strings/Panagram.java,6\7\6733d86ef0bfa2676cacb42cdc74fdeab5f005d3
-X
-(src/main/java/array/FindValidString.java,3\7\3766dc4c95abf362709fdf3a7d28b0a0468bdf5a
 P
  src/main/java/java8/Student.java,f\1\f10d65b0a1e10aedb07eedddc3921bdbc808db7a
 Q
@@ -89,3 +87,11 @@ Z
 *src/main/java/exception/ReverseString.java,5\c\5c286139f584f2fc42d8a11c06cad92f4633ea58
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+V
+&src/main/java/strings/PrimeNumber.java,3\7\3784455d042f1c751a8b26f47de2508fbe3227ee
+U
+%src/main/java/strings/CountWords.java,e\4\e4b4b11041b2ab808860ae8133dc33f15564c241
+Y
+)src/main/java/strings/CountCharactor.java,6\4\64e9d8e32a0ab6a5192d1f925bbc25120f60efa2
+d
+4src/main/java/strings/CountCharacterInEachWords.java,2\f\2f5b23f68a403423dac6ebd135de30d6e120af73
