@@ -27,7 +27,7 @@
 * [Java program to count the characters in each word in a given sentence](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharacterInEachWords.java)
 * [Java program to count characters in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharactor.java)
 * [Java program to count words in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountWords.java)
-
+* [Find First non repeating character in given string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/FindFirstNonRepeatingChar.java)
 
 #### Substrings :
 * [Compare given strings](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/CompareStrings.java)
@@ -48,6 +48,7 @@
 * [Skip number](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/Skip.java)
 * [Sort in descending order ](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/SortDescending.java)
 * [Print number which starts with 3](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/StartWith.java)
+* [Find First non repeating character in given string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/FindFirstNonRepeatingChar.java)
 
 
 ### numbers
