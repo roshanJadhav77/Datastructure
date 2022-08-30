@@ -1,11 +1,0 @@
-
-n
-java:S1602
-"SRemove useless curly braces around statement and then remove useless return keyword(ÿöäüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(öß‰°øÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„’º˜ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠŒŸ¿ÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÛû›
-M	java:S106"9Replace this use of System.out or System.err by a logger.(…¾ò$
-S	java:S106"9Replace this use of System.out or System.err by a logger.(—¨¤»üÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ

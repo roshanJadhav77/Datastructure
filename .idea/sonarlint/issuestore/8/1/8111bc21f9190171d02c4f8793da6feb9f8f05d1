@@ -1,7 +1,0 @@
-
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÙğš8ĞœØÓ0
-@
-java:S1165"%Make this "errorMessage" field final.(˜Ùçöşÿÿÿÿ
-s
-java:S1104"XMake errorMessage a static final constant or non-public and provide accessors if needed.(˜Ùçöşÿÿÿÿ

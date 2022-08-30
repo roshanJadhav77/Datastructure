@@ -1,0 +1,14 @@
+
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(ô›É8ô¿Üø­0
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(àÙˆëûÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(ÚÒ‹¹ûÿÿÿÿ
+P
+java:S1121".Extract the assignment out of this expression.(­Ê˜ùıÿÿÿÿ8¬Éèø­0
+P
+java:S1121".Extract the assignment out of this expression.(å‚´¨üÿÿÿÿ8¬Éèø­0

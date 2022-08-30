@@ -1,20 +1,0 @@
-
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éþ‰ýùÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(˜Ñ°Îûÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(²ŸÕðþÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(¥£²á
-V	java:S125$"<This block of commented-out lines of code should be removed.(ûüçíÿÿÿÿÿ
-P	java:S125*"<This block of commented-out lines of code should be removed.(Éßw
-A
-java:S1905."&Remove this unnecessary cast to "int".(ÄÜÂÍþÿÿÿÿ
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(Â¿ó©ýÿÿÿÿ
-G
-java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
-E
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
-S
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
-b
-java:S1192"GDefine a constant instead of duplicating this literal "active" 6 times.(§¡ÈÄþÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ

@@ -1,0 +1,7 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷Ìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ÿïÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(æš_
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

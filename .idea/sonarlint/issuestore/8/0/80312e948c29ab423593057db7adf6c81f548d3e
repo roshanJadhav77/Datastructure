@@ -1,15 +1,0 @@
-
-Z
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖÌÑW
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(ðÔž²øÿÿÿÿ8ÔÝÂªœ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(î¨¿žúÿÿÿÿ8ÏÏÅªœ0
-?
-java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÔÝÂªœ0
-[
-java:S4973
-"9Use the "equals" method if value comparison was intended.(ðÔž²øÿÿÿÿ8ßÝÂªœ0
-[
-java:S4973"9Use the "equals" method if value comparison was intended.(î¨¿žúÿÿÿÿ8ÓÏÅªœ0

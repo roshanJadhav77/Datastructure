@@ -1,9 +1,0 @@
-
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­§σωÿÿÿÿ
-e
-java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§σωÿÿÿÿ
-H
-java:S1113"-Do not override the Object.finalize() method.(­§σωÿÿÿÿ
-A
-java:S1174"&Make this finalize() method protected.(­§σωÿÿÿÿ
