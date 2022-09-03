@@ -31,8 +31,6 @@ f
 6src/main/java/strings/substring/PrintSpecificChar.java,6\0\6046402407ccdf6ba207d1ec3a9548c1c3c25492
 _
 /src/main/java/strings/substring/RemoveChar.java,5\3\538a0a8bedbdc256d32e6ccd31155d4014abfec6
-X
-(src/main/java/strings/UniqueElement.java,b\c\bca3b1f91374d05e9fdc845a93d0096c91a8fc28
 _
 /src/main/java/strings/SwappingTwoVariables.java,b\5\b550ebeef102a37fec909d63f221cbee2b183a48
 ^
@@ -59,12 +57,6 @@ d
 4src/main/java/strings/CountCharacterInEachWords.java,2\f\2f5b23f68a403423dac6ebd135de30d6e120af73
 V
 &src/main/java/basic/DateFormation.java,a\1\a11a1abbdf3d20f4d1f63c75fb40188e185c0f1c
-]
--src/main/java/interview/coforge/Program1.java,8\1\81fa4bf315964ee7f02b383b40d78a165f8548fc
-]
--src/main/java/interview/coforge/Program2.java,0\8\0810e4a9af2b0ec91a019071ac3972ba86652202
-]
--src/main/java/interview/coforge/Program3.java,f\1\f1ba08a4082b178d9719dd57d31c44b7702124f3
 L
 src/main/java/java8/Odd.java,e\3\e393be2eac017d6db68454632b8437db0899216f
 L
