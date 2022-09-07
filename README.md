@@ -28,6 +28,9 @@
 * [Java program to count characters in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountCharactor.java)
 * [Java program to count words in string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/CountWords.java)
 * [Find First non repeating character in given string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/java8/FindFirstNonRepeatingChar.java)
+* [Find Max and min occurrence of character in given string](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/MaxMinOccurance.java)
+
+
 
 #### Substrings :
 * [Compare given strings](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/strings/substring/CompareStrings.java)
