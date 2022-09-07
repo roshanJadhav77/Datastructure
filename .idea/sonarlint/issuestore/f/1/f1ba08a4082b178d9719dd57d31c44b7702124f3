@@ -1,0 +1,8 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(À¶²Ç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÀ“©ÿÿÿÿÿ
+Q
+java:S2209"5Change this instance-reference to a static reference.(ëá²b8È£Œù­0
+[
+java:S2259"?A "NullPointerException" could be thrown; "a" is nullable here.(ëá²b8¥×‹ù­0

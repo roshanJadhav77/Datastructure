@@ -10,19 +10,16 @@ public class UsingHashMap {
         mostOcurrance(arr, len);
     }
     static void mostOcurrance(int[] arr, int len) {
-        Map<Integer, Integer> hm = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
+
         for(int c : arr) {
-            if(hm.containsKey(c)){
-                hm.put(c, hm.get(c)+1);
-            } else{
-                hm.put(c, 1);
-            }
+            map.put(c, map.containsKey(c) ? map.get(c)+1 : 1);
         }
 
-        System.out.println(hm);
+        System.out.println(map);
         //find max frequency
         int max_count = 0, numb = 0;
-        for(Map.Entry<Integer, Integer> entry : hm.entrySet()){
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
             if(max_count < entry.getValue()){
                 max_count = entry.getValue();
                 numb = entry.getKey();

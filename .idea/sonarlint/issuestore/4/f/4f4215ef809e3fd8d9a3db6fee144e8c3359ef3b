@@ -1,11 +1,0 @@
-
-Y
-java:S1854">Remove this useless assignment to local variable "integersff".(†‘ÆÚøÿÿÿÿ
-J
-java:S1481"/Remove this unused "integersff" local variable.(†‘ÆÚøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÿ·«ýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(Û‹÷–ÿÿÿÿÿ
-P	java:S125"<This block of commented-out lines of code should be removed.(ù”Êq
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
-R
-java:S3655"7Call "Optional#isPresent()" before accessing the value.(†‘ÆÚøÿÿÿÿ

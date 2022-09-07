@@ -10,13 +10,13 @@ public class UniqueElement {
 
         String str = "Java is high level langauge";
         char[] chars = str.toLowerCase().toCharArray();
-        LinkedHashMap<Character, Integer> hm = new LinkedHashMap<Character, Integer>();
+        Map<Character, Integer> map = new LinkedHashMap<Character, Integer>();
 
         for (Character c : chars) {
-            hm.put(c, hm.containsKey(c) ? hm.get(c)+1 : 1); //get(c)+1, have a count of repeated character
+            map.put(c, map.containsKey(c) ? map.get(c)+1 : 1); //get(c)+1, have a count of repeated character
         }
 
-        hm.entrySet()
+        map.entrySet()
                 .stream()
                 .filter(e -> e.getValue() > 1)
                 .collect(Collectors.toList())

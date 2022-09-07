@@ -1,16 +1,0 @@
-
-E
-java:S3740"/Provide the parametrized type for this generic.(À“ÄÌ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¥»Š¸
-V	java:S125"<This block of commented-out lines of code should be removed.(­’ƒýûÿÿÿÿ
-h
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(üµÃ¬
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Æã•ûÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(ãö½„
-N	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒµ“‡
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(‚Ìñêùÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
-R
-java:S3655("7Call "Optional#isPresent()" before accessing the value.(þè®Àûÿÿÿÿ
-M
-java:S3655$"7Call "Optional#isPresent()" before accessing the value.(ÏŠÚ
