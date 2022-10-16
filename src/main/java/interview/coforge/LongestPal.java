@@ -6,6 +6,4 @@ public class LongestPal {
 
     }
 
-
-    static  String 
 }

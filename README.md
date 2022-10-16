@@ -62,3 +62,8 @@
 
 ### Exception
 * [Reverse the string and print message if string is empty](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/exception/ReverseString.java)
+
+
+### Interview
+* [First Non Repeating character from String](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/interview/coforge/FirstNonRepeatingChar.java)
+* [Shift Zeros from an given array](https://github.com/roshanJadhav77/Datastructure/blob/main/src/main/java/interview/coforge/ShiftZeros.java)

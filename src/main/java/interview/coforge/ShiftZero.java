@@ -14,8 +14,6 @@ public class ShiftZero {
 
     }
 
-
-
     static void shiftZeros(int[] arr, int len){
 
         int count = 0;
