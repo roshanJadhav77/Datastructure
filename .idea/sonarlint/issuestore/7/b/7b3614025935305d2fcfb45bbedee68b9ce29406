@@ -1,0 +1,15 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÊÚ¿Ùÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þÝ°ºúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Žÿ’…ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(µ™
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ûºïë
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñòœÖ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ëü‰l
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ž€•¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õê ú
+[
+java:S1192"FDefine a constant instead of duplicating this literal " eyes" 3 times.(Ëü‰l
+b
+java:S1192"MDefine a constant instead of duplicating this literal " Shavil has " 3 times.(Ëü‰l

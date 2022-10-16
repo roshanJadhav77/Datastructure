@@ -40,10 +40,6 @@ d
 V
 &src/main/java/basic/DateFormation.java,a\1\a11a1abbdf3d20f4d1f63c75fb40188e185c0f1c
 ]
--src/main/java/interview/coforge/Program1.java,8\1\81fa4bf315964ee7f02b383b40d78a165f8548fc
-]
--src/main/java/interview/coforge/Program2.java,0\8\0810e4a9af2b0ec91a019071ac3972ba86652202
-]
 -src/main/java/interview/coforge/Program3.java,f\1\f1ba08a4082b178d9719dd57d31c44b7702124f3
 X
 (src/main/java/strings/UniqueElement.java,b\c\bca3b1f91374d05e9fdc845a93d0096c91a8fc28
@@ -65,8 +61,6 @@ d
 4src/main/java/array/RemoveDuplicateUsingHashSet.java,6\b\6bd76b8e0af73ddf65197efcb014abf0199877a8
 Y
 )src/main/java/array/SegregateEvenOdd.java,f\4\f413386bf3ae4327b3206ea3f34a282d853f2955
-S
-#src/main/java/array/SumOfArray.java,4\b\4bc6d4f623e3e66b2e54da43a9e12812522473a0
 V
 &src/main/java/java8/CountElements.java,9\6\965b28f79684df9ce8f92fe3c926f93e149db467
 ]
@@ -85,3 +79,25 @@ O
 src/main/java/java8/Lambda.java,9\d\9ddca015be610570d7f377e279cad4d37ae08241
 N
 src/main/java/java8/Limit.java,e\3\e3dba3e0d6894a4c11781cb3a23d3124c3b271eb
+Q
+!src/main/java/java8/MainGate.java,9\b\9b7ba3d62fb8d2b84ec6362943d5db40c1cb4048
+L
+src/main/java/java8/Max.java,4\f\4f4215ef809e3fd8d9a3db6fee144e8c3359ef3b
+L
+src/main/java/java8/Odd.java,e\3\e393be2eac017d6db68454632b8437db0899216f
+X
+(src/main/java/java8/PrintDuplicates.java,5\f\5f1bfed12646470023e6262756731f4de5d15f49
+W
+'src/main/java/java8/SortDescending.java,b\2\b2aef44a56f8aa6ea1ad07f831026547fdd8fc9b
+O
+src/main/java/java8/Sorted.java,b\b\bbc85c0834b6397efca7a2c78adcf6c1552e8f34
+U
+%src/main/java/java8/SquareOfEven.java,1\9\19b10e931a6eecc6ce7554d01afccf9f916582a4
+R
+"src/main/java/java8/StartWith.java,4\a\4a3ca11fc142ea06e6dd778bd8340800a1d33893
+a
+1src/main/java/interview/coforge/ShavilPerson.java,1\d\1d43d251588166d20b0c0d59317a73edce3ed8f9
+f
+6src/main/java/array/highestocurrance/UsingHashMap.java,2\0\20604d5209b2b5fa85420edc298005f89ef98b3d
+_
+/src/main/java/interview/coforge/MainPerson.java,7\b\7b3614025935305d2fcfb45bbedee68b9ce29406

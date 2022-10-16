@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûøœí8’¸•°0
+V	java:S125"<This block of commented-out lines of code should be removed.(£œ’úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Û‹÷–ÿÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8°á•°0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(…ä¾8±•°0
