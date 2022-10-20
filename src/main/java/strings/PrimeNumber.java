@@ -15,7 +15,7 @@ public class PrimeNumber {
 
         System.out.println("Below are the prime numbers from 1 to 100:---");
         // to print 1 to 100
-        int a=1, b=100;
+        int a=1, b=20;
         for (int i=a; i<=b; i++) {
             if(isPrime(i)){
                 System.out.print(i+" ");

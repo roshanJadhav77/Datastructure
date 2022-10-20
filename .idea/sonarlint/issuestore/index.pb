@@ -25,8 +25,6 @@ X
 +src/main/java/strings/RemoveWhiteSpace.java,4\f\4ff4917de673bdb3b0c25eb5e388e41f7557c239
 c
 3src/main/java/strings/RemoveDuplicateCharacter.java,c\e\cedc7621550660cf21b43c5c462bbc8282a4fec9
-V
-&src/main/java/strings/PrimeNumber.java,3\7\3784455d042f1c751a8b26f47de2508fbe3227ee
 `
 0src/main/java/strings/LowercaseAndUppercase.java,7\1\7152fe089420cbdaee0e3b1a6eeb2003a2cbb277
 S
@@ -53,8 +51,6 @@ W
 'src/main/java/array/MissingElement.java,5\5\5511490eed79a8e814e60c8d67067e89d332cf00
 V
 &src/main/java/array/MissingEleXor.java,6\e\6e620f140c1b399cccaf0fe805ca1b44e6b83325
-T
-$src/main/java/array/PrimeNumber.java,4\8\48917fa00ce2b6e2615123a8d13e46f3b0bb1e3c
 c
 3src/main/java/array/RemoveDuplicateSortedArray.java,8\4\8486034bb3b19c9a79e8445b8a5fad89a9c3ee27
 d
